@@ -203,6 +203,8 @@ Detected security events are recorded for further analysis.
 ## 👨‍💻 Developer
 
 **Sai Kiran J**
+**Vishwas V**
+**Vaishnavi V**
 
 Electronics and Communication Engineering
 
